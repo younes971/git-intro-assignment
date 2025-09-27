@@ -15,3 +15,5 @@ Added some new notes for Exercise 2.
 Testing branch dev1 edits.
 # Simulated collaboration edits on dev2
 Edited differently in main branch!
+Edited in conflict-test branch!
+
