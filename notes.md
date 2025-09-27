@@ -10,3 +10,6 @@ git remote add origin https://github.com/younes971/git-intro-assignment.git
 git add notes.md
 git commit -m "Add notes.md with Git commands"
 git push
+# Simulated collaboration edits
+Added some new notes for Exercise 2.
+Testing branch dev1 edits.
