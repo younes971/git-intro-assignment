@@ -13,3 +13,6 @@ git push
 # Simulated collaboration edits
 Added some new notes for Exercise 2.
 Testing branch dev1 edits.
+# Simulated collaboration edits on dev2
+Added more notes for Exercise 2.
+Testing branch dev2 edits.
